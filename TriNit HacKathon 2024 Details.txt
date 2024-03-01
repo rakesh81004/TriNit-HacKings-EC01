@@ -35,8 +35,6 @@ No late entries were accepted, ensuring fairness and equal competition.
 Each submission needed to include a clear project description, source code, and a demonstration (if required per track).  
 
 Judging Criteria  
-
-
 Submissions were evaluated based on a structured scoring system, considering several factors:  
 
 Innovation & Creativity – How original and groundbreaking the idea was.  
