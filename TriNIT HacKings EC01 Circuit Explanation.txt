@@ -1,0 +1,52 @@
+Implementation of the Floating Point Matrix Multiplication Project using an Online Digital Circuit Generator:
+
+Designing the Floating Point Adder and Multiplier:
+
+Utilize the logic gates available in the online digital circuit generator to design the basic building blocks of floating-point arithmetic operations.
+Implement circuits for addition and multiplication of floating-point numbers. This involves converting the inputs to half-precision floating-point format and performing the arithmetic operations.
+Ensure that the circuits maintain precision and accuracy in handling decimal points during addition and multiplication.
+Calculating Average of End Semester Marks:
+
+Design a circuit to calculate the average of end-semester marks for all students.
+Use components like adders, registers, and dividers to accumulate the marks for each student and compute the average.
+Ensure that the circuit can handle the varying weights assigned to different exams while calculating the average.
+Generating Consolidated Final Marks Matrix:
+
+Implement a circuit for matrix multiplication using the available components in the online digital circuit generator.
+Design the circuit to multiply the input matrix containing marks with the appropriate weightages to compute the consolidated final marks for each candidate.
+Utilize registers or memory elements to store intermediate results during the matrix multiplication process.
+
+
+In this project, I successfully designed and implemented a hardware accelerator for floating-point matrix multiplication using an online digital circuit generator. Here's a detailed explanation of the implementation:
+
+Designing the Floating Point Adder and Multiplier:
+
+Utilizing the available logic gates and components in the online digital circuit generator, I designed circuits for floating-point addition and multiplication.
+Ensured precision and accuracy in handling decimal points during arithmetic operations by carefully implementing the conversion to half-precision floating-point format and performing the operations.
+Calculating Average of End Semester Marks:
+
+Designed a circuit to calculate the average of end-semester marks for all students.
+Utilized adders, registers, and dividers to accumulate the marks for each student and compute the average, taking into account the varying weights assigned to different exams.
+Generating Consolidated Final Marks Matrix:
+
+Implemented a circuit for matrix multiplication, leveraging available components in the online digital circuit generator.
+Designed the circuit to multiply the input matrix containing marks with the appropriate weightages to compute the consolidated final marks for each candidate.
+Utilized registers or memory elements to store intermediate results during the matrix multiplication process, ensuring efficient computation.
+
+Bonus Task - Checking Empirical Relationship:
+
+Calculated the mean, median, and mode of the final marks dataset using the available components.
+Verified the empirical relationship (Mean – Mode = 3 * (Mean – Median)) approximately by comparing the calculated values, demonstrating the bonus task successfully.
+Simulation and Testing:
+
+Conducted thorough simulation of the entire circuit to verify its functionality and correctness.
+Tested the circuit with provided test cases, including specific floating-point addition and multiplication operations, ensuring accurate results.
+Made necessary adjustments and optimizations to the circuit design based on simulation results and testing outcomes, ensuring robust performance.
+
+Documentation and Submission:
+
+Captured screenshots of the circuit design at various stages, including the floating-point adder, multiplier, average calculation, matrix multiplication, and bonus task verification.
+Prepared a detailed PDF document explaining the logic, design approach, and screenshots of the circuit at each stage.
+Recorded a comprehensive video demonstrating the simulation of the circuit with provided test cases, highlighting the key components and operations.
+Organized all files, including the circuit design, PDF document, and video, into a drive folder for submission, ensuring clarity and completeness of the submission.
+Overall, through careful design, thorough testing, and documentation, I successfully implemented the Floating Point Matrix Multiplication project using the online digital circuit generator, demonstrating proficiency in digital circuit design and simulation.
