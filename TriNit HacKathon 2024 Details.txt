@@ -35,6 +35,8 @@ No late entries were accepted, ensuring fairness and equal competition.
 Each submission needed to include a clear project description, source code, and a demonstration (if required per track).  
 
 Judging Criteria  
+
+
 Submissions were evaluated based on a structured scoring system, considering several factors:  
 
 Innovation & Creativity – How original and groundbreaking the idea was.  
@@ -45,7 +47,7 @@ Bonus Points – Given for projects demonstrating scalability, impact, and align
 
 Prize Pool & Reward 
 
-- A total of ₹60,000 was reserved to reward the most impressive projects.  
+- A total of ₹60,000 was reserved to reward the most impressive projects .  
 - Winning teams received a portion of the prize money along with possible certifications, internship offers, and industry exposure.  
 - Additional benefits included mentorship, networking with experts, and invitations to future hackathons or incubator programs.  
 
