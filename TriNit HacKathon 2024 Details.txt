@@ -23,7 +23,7 @@ Electronics – Aimed at hardware-based applications, IoT systems, and embedded 
 Web 3.0 – Targeted decentralized solutions, blockchain applications, and futuristic web technologies.  
 
 Code of Conduct  
-z
+
 To ensure a level playing field, the following guidelines were strictly implemented:  
 All submissions had to be original and created exclusively during the event.  
 Any form of plagiarism or use of pre-developed projects led to disqualification.  
@@ -36,7 +36,6 @@ No late entries were accepted, ensuring fairness and equal competition.
 Each submission needed to include a clear project description, source code, and a demonstration (if required per track).  
 
 Judging Criteria  
-
 Submissions were evaluated based on a structured scoring system, considering several factors:  
 
 Innovation & Creativity – How original and groundbreaking the idea was.  
