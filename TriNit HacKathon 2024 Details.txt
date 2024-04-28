@@ -1,5 +1,4 @@
 The Tri-NIT Hackathon 3.0, held from March 8 to 10, 2024, was an intense 36-hour online coding challenge hosted through a joint effort by ACM NITK (National Institute of Technology Karnataka), Spider-NIT Trichy (National Institute of Technology Tiruchirappalli), and CSEA-NIT Warangal (National Institute of Technology Warangal). This esteemed hackathon provided a competitive stage, uniting undergraduate students from universities across India to exhibit their coding abilities, creativity, and problem-solving expertise.  
-
 Event Overview  
 The hackathon presented multiple specialized tracks for participants, such as Development, Machine Learning, Electronics, and Web 3.0. Teams were formed with two to four members, who worked collectively to create innovative solutions based on the problem statements given during the competition. The event encouraged critical thinking, technical mastery, and practical application development under strict time constraints.  
 
@@ -51,5 +50,6 @@ Prize Pool & Reward
 - Additional benefits included mentorship, networking with experts, and invitations to future hackathons or incubator programs.  
 
 Conclusion  
+
 
 The Tri-NIT Hackathon 3.0 was an engaging and demanding event that promoted creativity, teamwork, and technical growth among India’s brightest students. Through this competition, participants gained hands-on experience in problem-solving, enhanced their expertise, and improved their collaborative and time management skills. The event successfully cultivated a culture of innovation and served as a stepping stone for technological progress.
