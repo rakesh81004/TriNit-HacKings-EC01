@@ -15,7 +15,6 @@ The entire hackathon was conducted in an online format, allowing students nation
 Teams had exactly 36 hours to brainstorm, prototype, develop, and present their solutions.  
 
 Tracks  
-
 Teams were allowed to select a problem statement from one of four specialized categories:  
 
 Development – Focused on software platforms, web applications, and mobile app solutions.  
