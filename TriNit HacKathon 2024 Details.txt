@@ -10,6 +10,7 @@ Each team had to include at least two members and a maximum of four.
 All participants needed to be undergraduate students from Indian universities.  
 Interdisciplinary teams were welcomed, fostering diversity in expertise and teamwork.  
 
+
 Event Format: 
 The entire hackathon was conducted in an online format, allowing students nationwide to take part.  
 Teams had exactly 36 hours to brainstorm, prototype, develop, and present their solutions.  
@@ -24,6 +25,7 @@ Electronics – Aimed at hardware-based applications, IoT systems, and embedded 
 Web 3.0 – Targeted decentralized solutions, blockchain applications, and futuristic web technologies.  
 
 Code of Conduct  
+
 
 To ensure a level playing field, the following guidelines were strictly implemented:  
 All submissions had to be original and created exclusively during the event.  
