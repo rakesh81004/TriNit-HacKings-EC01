@@ -34,7 +34,7 @@ Submission Guidelines
 
 Teams had to upload their final projects onto the specified hackathon platform before the deadline.  
 No late entries were accepted, ensuring fairness and equal competition.  
-- Each submission needed to include a clear project description, source code, and a demonstration (if required per track).  
+Each submission needed to include a clear project description, source code, and a demonstration (if required per track).  
 
 Judging Criteria  
 
