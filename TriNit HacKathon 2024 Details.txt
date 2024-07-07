@@ -26,7 +26,7 @@ Web 3.0 – Targeted decentralized solutions, blockchain applications, and futur
 Code of Conduct  
 
 To ensure a level playing field, the following guidelines were strictly implemented:  
-- All submissions had to be original and created exclusively during the event.  
+All submissions had to be original and created exclusively during the event.  
 - Any form of plagiarism or use of pre-developed projects led to disqualification.  
 - Participants were required to maintain ethical coding standards and professionalism.  
 
