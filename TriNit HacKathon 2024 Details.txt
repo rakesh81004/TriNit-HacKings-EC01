@@ -27,7 +27,7 @@ Code of Conduct
 
 To ensure a level playing field, the following guidelines were strictly implemented:  
 All submissions had to be original and created exclusively during the event.  
-- Any form of plagiarism or use of pre-developed projects led to disqualification.  
+Any form of plagiarism or use of pre-developed projects led to disqualification.  
 - Participants were required to maintain ethical coding standards and professionalism.  
 
 Submission Guidelines  
