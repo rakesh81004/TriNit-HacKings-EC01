@@ -19,7 +19,7 @@ Tracks
 Teams were allowed to select a problem statement from one of four specialized categories:  
 
 - Development – Focused on software platforms, web applications, and mobile app solutions.  
-- **Machine Learning** – Centered around AI-driven solutions, predictive modeling, and data analytics.  
+- Machine Learning – Centered around AI-driven solutions, predictive modeling, and data analytics.  
 - **Electronics** – Aimed at hardware-based applications, IoT systems, and embedded technology.  
 - **Web 3.0** – Targeted decentralized solutions, blockchain applications, and futuristic web technologies.  
 
