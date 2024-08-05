@@ -3,7 +3,7 @@ The Tri-NIT Hackathon 3.0, held from March 8 to 10, 2024, was an intense 36-hour
 ### Event Overview  
 The hackathon presented multiple specialized tracks for participants, such as Development, Machine Learning, Electronics, and Web 3.0. Teams were formed with two to four members, who worked collectively to create innovative solutions based on the problem statements given during the competition. The event encouraged critical thinking, technical mastery, and practical application development under strict time constraints.  
 
-### Hackathon Rules & Guidelines  
+Hackathon Rules & Guidelines  
 
 **Team Formation:**  
 - Each team had to include at least two members and a maximum of four.  
