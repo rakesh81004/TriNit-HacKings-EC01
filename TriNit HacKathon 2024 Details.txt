@@ -10,7 +10,7 @@ Team Formation:
 - All participants needed to be undergraduate students from Indian universities.  
 - Interdisciplinary teams were welcomed, fostering diversity in expertise and teamwork.  
 
-**Event Format:**  
+Event Format: 
 - The entire hackathon was conducted in an online format, allowing students nationwide to take part.  
 - Teams had exactly 36 hours to brainstorm, prototype, develop, and present their solutions.  
 
