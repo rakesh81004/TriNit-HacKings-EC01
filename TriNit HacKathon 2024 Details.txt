@@ -14,7 +14,7 @@ The hackathon presented multiple specialized tracks for participants, such as De
 - The entire hackathon was conducted in an online format, allowing students nationwide to take part.  
 - Teams had exactly 36 hours to brainstorm, prototype, develop, and present their solutions.  
 
-### Tracks  
+Tracks  
 
 Teams were allowed to select a problem statement from one of four specialized categories:  
 
