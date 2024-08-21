@@ -52,6 +52,6 @@ Submissions were evaluated based on a structured scoring system, considering sev
 - Winning teams received a portion of the prize money along with possible certifications, internship offers, and industry exposure.  
 - Additional benefits included mentorship, networking with experts, and invitations to future hackathons or incubator programs.  
 
-### Conclusion  
+Conclusion  
 
 The Tri-NIT Hackathon 3.0 was an engaging and demanding event that promoted creativity, teamwork, and technical growth among India’s brightest students. Through this competition, participants gained hands-on experience in problem-solving, enhanced their expertise, and improved their collaborative and time management skills. The event successfully cultivated a culture of innovation and served as a stepping stone for technological progress.
