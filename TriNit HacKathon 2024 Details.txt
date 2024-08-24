@@ -23,7 +23,7 @@ Teams were allowed to select a problem statement from one of four specialized ca
 - **Electronics** – Aimed at hardware-based applications, IoT systems, and embedded technology.  
 - **Web 3.0** – Targeted decentralized solutions, blockchain applications, and futuristic web technologies.  
 
-### Code of Conduct  
+Code of Conduct  
 
 To ensure a level playing field, the following guidelines were strictly implemented:  
 - All submissions had to be original and created exclusively during the event.  
