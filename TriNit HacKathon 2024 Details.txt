@@ -1,51 +1,57 @@
-The Tri-NIT Hackathon 3.0, held from March 8 to 10, 2024, was an intense 36-hour online coding competition organized through a collaborative effort by ACM NITK (National Institute of Technology Karnataka), Spider-NIT Trichy (National Institute of Technology Tiruchirappalli), and CSEA-NIT Warangal (National Institute of Technology Warangal). This prestigious hackathon served as an innovative platform, bringing together undergraduate students from universities across India to showcase their technical skills, creativity, and problem-solving abilities.
+The Tri-NIT Hackathon 3.0, held from March 8 to 10, 2024, was an intense 36-hour online coding challenge hosted through a joint effort by ACM NITK (National Institute of Technology Karnataka), Spider-NIT Trichy (National Institute of Technology Tiruchirappalli), and CSEA-NIT Warangal (National Institute of Technology Warangal). This esteemed hackathon provided a competitive stage, uniting undergraduate students from universities across India to exhibit their coding abilities, creativity, and problem-solving expertise.  
 
-Event Overview
-The hackathon featured various tracks that participants could choose from, including Development, Machine Learning, Electronics, and Web 3.0. Participants were required to form teams consisting of 2 to 4 members, working collaboratively to develop innovative solutions to problem statements provided during the event. The competition aimed to encourage students to think critically, enhance their technical expertise, and build real-world applications under time constraints.
+### Event Overview  
+The hackathon presented multiple specialized tracks for participants, such as Development, Machine Learning, Electronics, and Web 3.0. Teams were formed with two to four members, who worked collectively to create innovative solutions based on the problem statements given during the competition. The event encouraged critical thinking, technical mastery, and practical application development under strict time constraints.  
 
-Hackathon Rules & Guidelines
-Team Formation:
-Each team must comprise a minimum of 2 members and a maximum of 4 members.
-All team members must be undergraduate students enrolled in Indian universities.
-Interdisciplinary teams were encouraged, promoting diversity in skill sets and collaboration.
-Event Format:
-The hackathon was conducted entirely online, enabling participation from students across the country.
-It was a 36-hour continuous event, requiring teams to ideate, design, develop, and present their projects within the given time frame.
+### Hackathon Rules & Guidelines  
 
-Tracks:
+**Team Formation:**  
+- Each team had to include at least two members and a maximum of four.  
+- All participants needed to be undergraduate students from Indian universities.  
+- Interdisciplinary teams were welcomed, fostering diversity in expertise and teamwork.  
 
-Participants had the flexibility to choose a problem statement from one of the following four specialized tracks:
+**Event Format:**  
+- The entire hackathon was conducted in an online format, allowing students nationwide to take part.  
+- Teams had exactly 36 hours to brainstorm, prototype, develop, and present their solutions.  
 
-Development – Focusing on software applications, web platforms, and mobile app development.
-Machine Learning – Involving AI models, data-driven solutions, and predictive analytics.
-Electronics – Targeting hardware-based solutions, embedded systems, and IoT applications.
-Web 3.0 – Exploring decentralized applications (DApps), blockchain solutions, and next-gen web technologies.
+### Tracks  
 
-Code of Conduct:
+Teams were allowed to select a problem statement from one of four specialized categories:  
 
-To maintain fairness and integrity, strict rules were enforced:
-     All solutions must be original and developed exclusively during the hackathon.
-     Any form of plagiarism or use of pre-existing projects would lead to immediate disqualification.
-     Participants were expected to adhere to ethical coding practices and demonstrate professionalism throughout the event.
+- **Development** – Focused on software platforms, web applications, and mobile app solutions.  
+- **Machine Learning** – Centered around AI-driven solutions, predictive modeling, and data analytics.  
+- **Electronics** – Aimed at hardware-based applications, IoT systems, and embedded technology.  
+- **Web 3.0** – Targeted decentralized solutions, blockchain applications, and futuristic web technologies.  
 
-Submission Guidelines:
+### Code of Conduct  
 
-Teams were required to submit their completed projects on the designated hackathon platform before the deadline.
-Late submissions were strictly not entertained, ensuring fairness in evaluation.
-Each submission had to include a detailed project description, code repository, and a demonstration (if required by the track guidelines).
-Judging Criteria
-Projects were evaluated based on a well-defined scoring system, assessing multiple aspects of the submission:
+To ensure a level playing field, the following guidelines were strictly implemented:  
+- All submissions had to be original and created exclusively during the event.  
+- Any form of plagiarism or use of pre-developed projects led to disqualification.  
+- Participants were required to maintain ethical coding standards and professionalism.  
 
-Innovation & Creativity – Uniqueness of the idea and its novelty.
-Feasibility & Practicality – The solution’s potential for real-world implementation.
-Functionality & Execution – How well the project works and meets the problem statement’s requirements.
-Presentation & Clarity – The effectiveness of the team’s explanation and project demonstration.
-Bonus Points – Awarded for projects that showcase scalability, impact, and strong alignment with the chosen track’s objectives.
+### Submission Guidelines  
 
-Prize Pool & Rewards
+- Teams had to upload their final projects onto the specified hackathon platform before the deadline.  
+- No late entries were accepted, ensuring fairness and equal competition.  
+- Each submission needed to include a clear project description, source code, and a demonstration (if required per track).  
 
-A total prize pool of ₹60,000 was allocated to recognize the most outstanding projects.
-Winning teams were awarded a share of this cash prize along with potential certifications, internship opportunities, and industry recognition.
-Additional perks may have included mentorship sessions, networking opportunities, and access to further hackathons or incubator programs.
-Conclusion
-The Tri-NIT Hackathon 3.0 was a dynamic and challenging competition that fostered innovation, collaboration, and skill-building among India's brightest young minds. By participating, students gained hands-on experience in real-world problem-solving, strengthened their technical expertise, and enhanced their teamwork and time management skills. This event successfully nurtured a culture of innovation and provided a springboard for future technological advancements.
+### Judging Criteria  
+
+Submissions were evaluated based on a structured scoring system, considering several factors:  
+
+- **Innovation & Creativity** – How original and groundbreaking the idea was.  
+- **Feasibility & Practicality** – The real-world applicability of the proposed solution.  
+- **Functionality & Execution** – How effectively the project met the problem statement’s requirements.  
+- **Presentation & Clarity** – The team’s ability to articulate and showcase their project.  
+- **Bonus Points** – Given for projects demonstrating scalability, impact, and alignment with the track’s goals.  
+
+### Prize Pool & Rewards  
+
+- A total of ₹60,000 was reserved to reward the most impressive projects.  
+- Winning teams received a portion of the prize money along with possible certifications, internship offers, and industry exposure.  
+- Additional benefits included mentorship, networking with experts, and invitations to future hackathons or incubator programs.  
+
+### Conclusion  
+
+The Tri-NIT Hackathon 3.0 was an engaging and demanding event that promoted creativity, teamwork, and technical growth among India’s brightest students. Through this competition, participants gained hands-on experience in problem-solving, enhanced their expertise, and improved their collaborative and time management skills. The event successfully cultivated a culture of innovation and served as a stepping stone for technological progress.
