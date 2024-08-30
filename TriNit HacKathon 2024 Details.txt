@@ -30,7 +30,7 @@ To ensure a level playing field, the following guidelines were strictly implemen
 - Any form of plagiarism or use of pre-developed projects led to disqualification.  
 - Participants were required to maintain ethical coding standards and professionalism.  
 
-### Submission Guidelines  
+Submission Guidelines  
 
 - Teams had to upload their final projects onto the specified hackathon platform before the deadline.  
 - No late entries were accepted, ensuring fairness and equal competition.  
