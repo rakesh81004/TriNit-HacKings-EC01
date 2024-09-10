@@ -40,7 +40,8 @@ Examples of how the solution addresses real-world challenges, like processing la
 
 Purpose of the Text:
 
-This text acts as an overview of the project. It aims to:
+This text acts as an overview of the project. 
+It aims to:
 
 Introduce the project's context and objectives concisely.
 Emphasize key features, such as floating-point precision and efficient matrix multiplication.
