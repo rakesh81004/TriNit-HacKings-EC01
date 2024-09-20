@@ -31,7 +31,6 @@ Frameworks or libraries such as NumPy or TensorFlow to simplify complex computat
 Optimization Techniques:
 
 Techniques adopted to enhance algorithm efficiency.
-
 Strategies like parallel computing, cache optimization, and reducing redundant operations.
 
 Results and Real-World Applications:
