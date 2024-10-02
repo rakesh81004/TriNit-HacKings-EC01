@@ -20,6 +20,7 @@ Development – Focusing on software applications, web platforms, and mobile app
 Machine Learning – Involving AI models, data-driven solutions, and predictive analytics.
 Electronics – Targeting hardware-based solutions, embedded systems, and IoT applications.
 Web 3.0 – Exploring decentralized applications (DApps), blockchain solutions, and next-gen web technologies.
+
 Code of Conduct:
 
 To maintain fairness and integrity, strict rules were enforced:
