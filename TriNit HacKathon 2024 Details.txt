@@ -28,6 +28,7 @@ Any form of plagiarism or use of pre-existing projects would lead to immediate d
 Participants were expected to adhere to ethical coding practices and demonstrate professionalism throughout the event.
 
 Submission Guidelines:
+
 Teams were required to submit their completed projects on the designated hackathon platform before the deadline.
 Late submissions were strictly not entertained, ensuring fairness in evaluation.
 Each submission had to include a detailed project description, code repository, and a demonstration (if required by the track guidelines).
