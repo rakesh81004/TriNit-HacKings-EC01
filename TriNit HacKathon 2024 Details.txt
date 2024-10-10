@@ -21,8 +21,8 @@ Machine Learning – Involving AI models, data-driven solutions, and predictive 
 Electronics – Targeting hardware-based solutions, embedded systems, and IoT applications.
 Web 3.0 – Exploring decentralized applications (DApps), blockchain solutions, and next-gen web technologies.
 Code of Conduct:
-To maintain fairness and integrity, strict rules were enforced:
 
+To maintain fairness and integrity, strict rules were enforced:
 All solutions must be original and developed exclusively during the hackathon.
 Any form of plagiarism or use of pre-existing projects would lead to immediate disqualification.
 Participants were expected to adhere to ethical coding practices and demonstrate professionalism throughout the event.
