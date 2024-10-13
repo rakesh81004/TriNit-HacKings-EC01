@@ -13,6 +13,7 @@ The hackathon was conducted entirely online, enabling participation from student
 It was a 36-hour continuous event, requiring teams to ideate, design, develop, and present their projects within the given time frame.
 
 Tracks:
+
 Participants had the flexibility to choose a problem statement from one of the following four specialized tracks:
 
 Development – Focusing on software applications, web platforms, and mobile app development.
@@ -25,6 +26,7 @@ To maintain fairness and integrity, strict rules were enforced:
 All solutions must be original and developed exclusively during the hackathon.
 Any form of plagiarism or use of pre-existing projects would lead to immediate disqualification.
 Participants were expected to adhere to ethical coding practices and demonstrate professionalism throughout the event.
+
 Submission Guidelines:
 Teams were required to submit their completed projects on the designated hackathon platform before the deadline.
 Late submissions were strictly not entertained, ensuring fairness in evaluation.
