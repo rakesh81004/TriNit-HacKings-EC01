@@ -11,6 +11,7 @@ Interdisciplinary teams were encouraged, promoting diversity in skill sets and c
 Event Format:
 The hackathon was conducted entirely online, enabling participation from students across the country.
 It was a 36-hour continuous event, requiring teams to ideate, design, develop, and present their projects within the given time frame.
+
 Tracks:
 Participants had the flexibility to choose a problem statement from one of the following four specialized tracks:
 
