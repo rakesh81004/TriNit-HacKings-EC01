@@ -40,11 +40,11 @@ Feasibility & Practicality – The solution’s potential for real-world impleme
 Functionality & Execution – How well the project works and meets the problem statement’s requirements.
 Presentation & Clarity – The effectiveness of the team’s explanation and project demonstration.
 Bonus Points – Awarded for projects that showcase scalability, impact, and strong alignment with the chosen track’s objectives.
+
 Prize Pool & Rewards
 A total prize pool of ₹60,000 was allocated to recognize the most outstanding projects.
 
 Winning teams were awarded a share of this cash prize along with potential certifications, internship opportunities, and industry recognition.
 Additional perks may have included mentorship sessions, networking opportunities, and access to further hackathons or incubator programs.
-
 Conclusion
 The Tri-NIT Hackathon 3.0 was a dynamic and challenging competition that fostered innovation, collaboration, and skill-building among India's brightest young minds. By participating, students gained hands-on experience in real-world problem-solving, strengthened their technical expertise, and enhanced their teamwork and time management skills. This event successfully nurtured a culture of innovation and provided a springboard for future technological advancements.
