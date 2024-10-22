@@ -1,30 +1,45 @@
-The Tri-NIT Hackathon 3.0, held from March 8 to 10, 2024, was a 36-hour online event organized collaboratively by ACM NITK, Spider-NIT Trichy, and CSEA-NIT Warangal. This hackathon provided a platform for undergraduate students across India to work on problem statements in various tracks, including Development, Machine Learning, Electronics, and Web 3.0. Participants formed teams of 2 to 4 members to develop innovative solutions, competing for prizes totaling ₹60,000.
+The Tri-NIT Hackathon 3.0, held from March 8 to 10, 2024, was an intense 36-hour online coding competition organized through a collaborative effort by ACM NITK (National Institute of Technology Karnataka), Spider-NIT Trichy (National Institute of Technology Tiruchirappalli), and CSEA-NIT Warangal (National Institute of Technology Warangal). This prestigious hackathon served as an innovative platform, bringing together undergraduate students from universities across India to showcase their technical skills, creativity, and problem-solving abilities.
 
-Tri-NIT Hackathon 2024 Rules
+Event Overview
+The hackathon featured various tracks that participants could choose from, including Development, Machine Learning, Electronics, and Web 3.0. Participants were required to form teams consisting of 2 to 4 members, working collaboratively to develop innovative solutions to problem statements provided during the event. The competition aimed to encourage students to think critically, enhance their technical expertise, and build real-world applications under time constraints.
+
+Hackathon Rules & Guidelines
 Team Formation:
-
-Teams must consist of 2 to 4 members.
-All team members must be undergraduate students from Indian universities.
+Each team must comprise a minimum of 2 members and a maximum of 4 members.
+All team members must be undergraduate students enrolled in Indian universities.
+Interdisciplinary teams were encouraged, promoting diversity in skill sets and collaboration.
 Event Format:
-
-The hackathon is a 36-hour online event.
-Participation is completely virtual.
+The hackathon was conducted entirely online, enabling participation from students across the country.
+It was a 36-hour continuous event, requiring teams to ideate, design, develop, and present their projects within the given time frame.
 Tracks:
+Participants had the flexibility to choose a problem statement from one of the following four specialized tracks:
 
-Participants can choose from tracks like Development, Machine Learning, Electronics, and Web 3.0.
+Development – Focusing on software applications, web platforms, and mobile app development.
+Machine Learning – Involving AI models, data-driven solutions, and predictive analytics.
+Electronics – Targeting hardware-based solutions, embedded systems, and IoT applications.
+Web 3.0 – Exploring decentralized applications (DApps), blockchain solutions, and next-gen web technologies.
 Code of Conduct:
+To maintain fairness and integrity, strict rules were enforced:
 
-Solutions must be original and built during the hackathon duration.
-Any form of plagiarism will result in immediate disqualification.
-Submission:
+All solutions must be original and developed exclusively during the hackathon.
+Any form of plagiarism or use of pre-existing projects would lead to immediate disqualification.
+Participants were expected to adhere to ethical coding practices and demonstrate professionalism throughout the event.
+Submission Guidelines:
+Teams were required to submit their completed projects on the designated hackathon platform before the deadline.
+Late submissions were strictly not entertained, ensuring fairness in evaluation.
+Each submission had to include a detailed project description, code repository, and a demonstration (if required by the track guidelines).
+Judging Criteria
+Projects were evaluated based on a well-defined scoring system, assessing multiple aspects of the submission:
 
-Teams must submit their project on the provided platform before the deadline.
-Late submissions will not be entertained.
+Innovation & Creativity – Uniqueness of the idea and its novelty.
+Feasibility & Practicality – The solution’s potential for real-world implementation.
+Functionality & Execution – How well the project works and meets the problem statement’s requirements.
+Presentation & Clarity – The effectiveness of the team’s explanation and project demonstration.
+Bonus Points – Awarded for projects that showcase scalability, impact, and strong alignment with the chosen track’s objectives.
+Prize Pool & Rewards
+A total prize pool of ₹60,000 was allocated to recognize the most outstanding projects.
 
-Judging Criteria:
-
-Projects are evaluated based on innovation, feasibility, functionality, and presentation.
-Bonus points for scalability and alignment with track objectives.
-Prize Pool:
-
-A total prize worth ₹60,000 will be distributed among the winners.
+Winning teams were awarded a share of this cash prize along with potential certifications, internship opportunities, and industry recognition.
+Additional perks may have included mentorship sessions, networking opportunities, and access to further hackathons or incubator programs.
+Conclusion
+The Tri-NIT Hackathon 3.0 was a dynamic and challenging competition that fostered innovation, collaboration, and skill-building among India's brightest young minds. By participating, students gained hands-on experience in real-world problem-solving, strengthened their technical expertise, and enhanced their teamwork and time management skills. This event successfully nurtured a culture of innovation and provided a springboard for future technological advancements.
