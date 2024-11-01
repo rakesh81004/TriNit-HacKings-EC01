@@ -1,1 +1,1 @@
-Trinit Hackathon 2024
+The Tri-NIT Hackathon 3.0, held from March 8 to 10, 2024, was a 36-hour online event organized collaboratively by ACM NITK, Spider-NIT Trichy, and CSEA-NIT Warangal. This hackathon provided a platform for undergraduate students across India to work on problem statements in various tracks, including Development, Machine Learning, Electronics, and Web 3.0. Participants formed teams of 2 to 4 members to develop innovative solutions, competing for prizes totaling ₹60,000.
