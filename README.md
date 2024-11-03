@@ -19,8 +19,7 @@ The goal is to design a reliable and efficient algorithm for multiplying matrice
 
 Video Explanation:
 
-The project is thoroughly explained in a linked video, which likely includes:
-\
+The project is thoroughly explained in a linked video, which likely includes"
 
 Algorithm Implementation:
 
