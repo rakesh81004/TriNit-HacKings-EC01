@@ -30,7 +30,6 @@ Programming tools (e.g., Python, C++, or Java) utilized to implement the solutio
 Frameworks or libraries such as NumPy or TensorFlow to simplify complex computations.
 
 Optimization Techniques:
-
 Techniques adopted to enhance algorithm efficiency.
 
 Strategies like parallel computing, cache optimization, and reducing redundant operations.
