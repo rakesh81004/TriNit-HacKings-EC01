@@ -15,9 +15,7 @@ Scientific computing
 The goal is to design a reliable and efficient algorithm for multiplying matrices with floating-point numbers. Achieving this requires careful attention to numerical stability, memory optimization, and computational performance, ensuring accurate results while using resources effectively.
 
 Video Explanation:
-
-The project is thoroughly explained in a linked video, which likely includes:
-\
+The project is thoroughly explained in a linked video, which likely includes:\
 
 Algorithm Implementation:
 
