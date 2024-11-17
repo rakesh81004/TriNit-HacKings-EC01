@@ -9,9 +9,12 @@ Graphics rendering:
 Essential for accurate transformations and projections.
 
 Machine learning:
-Used in neural networks for processing floating-point weights and biases.
+Used in neural networks for processing floating-point weights
+and and biases.
 Scientific computing
  Needed for solving equations, simulations, and precise calculations.
+
+
 The goal is to design a reliable and efficient algorithm for multiplying matrices with floating-point numbers. Achieving this requires careful attention to numerical stability, memory optimization, and computational performance, ensuring accurate results while using resources effectively.
 
 Video Explanation:
