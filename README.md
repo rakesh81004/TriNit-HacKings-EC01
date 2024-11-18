@@ -9,12 +9,9 @@ Graphics rendering:
 Essential for accurate transformations and projections.
 
 Machine learning:
-Used in neural networks for processing floating-point weights
-and and biases.
+Used in neural networks for processing floating-point weights and biases.
 Scientific computing
  Needed for solving equations, simulations, and precise calculations.
-
-
 The goal is to design a reliable and efficient algorithm for multiplying matrices with floating-point numbers. Achieving this requires careful attention to numerical stability, memory optimization, and computational performance, ensuring accurate results while using resources effectively.
 
 Video Explanation:
@@ -35,9 +32,7 @@ Frameworks or libraries such as NumPy or TensorFlow to simplify complex computat
 Optimization Techniques:
 
 Techniques adopted to enhance algorithm efficiency.
-
 Strategies like parallel computing, cache optimization, and reducing redundant operations.
-
 Results and Real-World Applications:
 
 Demonstrations of outputs using sample matrices.
