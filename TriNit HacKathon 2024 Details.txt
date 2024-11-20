@@ -20,3 +20,11 @@ Submission:
 
 Teams must submit their project on the provided platform before the deadline.
 Late submissions will not be entertained.
+
+Judging Criteria:
+
+Projects are evaluated based on innovation, feasibility, functionality, and presentation.
+Bonus points for scalability and alignment with track objectives.
+Prize Pool:
+
+A total prize worth ₹60,000 will be distributed among the winners.
