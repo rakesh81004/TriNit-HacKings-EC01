@@ -7,6 +7,7 @@ The focus of this project is on Floating Point Matrix Multiplication, a vital co
 Graphics rendering: 
 
 Essential for accurate transformations and projections.
+
 Machine learning:
 Used in neural networks for processing floating-point weights and biases.
 Scientific computing
