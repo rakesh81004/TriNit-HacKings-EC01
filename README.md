@@ -16,7 +16,8 @@ The goal is to design a reliable and efficient algorithm for multiplying matrice
 
 Video Explanation:
 
-The project is thoroughly explained in a linked video, which likely includes:\
+The project is thoroughly explained in a linked video, which likely includes:
+\
 
 Algorithm Implementation:
 
@@ -31,7 +32,9 @@ Frameworks or libraries such as NumPy or TensorFlow to simplify complex computat
 Optimization Techniques:
 
 Techniques adopted to enhance algorithm efficiency.
+
 Strategies like parallel computing, cache optimization, and reducing redundant operations.
+
 Results and Real-World Applications:
 
 Demonstrations of outputs using sample matrices.
