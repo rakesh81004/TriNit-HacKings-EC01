@@ -5,6 +5,7 @@ Project Context:
 The focus of this project is on Floating Point Matrix Multiplication, a vital computational method with many real-world applications. Floating-point operations involve handling decimal numbers instead of integers, which is critical for precision in areas such as:
 
 Graphics rendering: 
+
 Essential for accurate transformations and projections.
 Machine learning:
 Used in neural networks for processing floating-point weights and biases.
