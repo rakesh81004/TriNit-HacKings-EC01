@@ -22,6 +22,7 @@ Tools and Programming Languages:
 
 The software and programming languages (e.g., Python, C++, or Java) used to build the solution.
 Frameworks or libraries, such as NumPy or TensorFlow, that might have been utilized to streamline computations.
+
 Optimization Techniques:
 
 Special methods applied to improve the efficiency of the algorithm.
