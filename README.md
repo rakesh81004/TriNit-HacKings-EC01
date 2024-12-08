@@ -4,9 +4,12 @@ The project, named TriNit-HacKings-EC01, likely represents a team or a unique pr
 Project Context:
 The focus of this project is on Floating Point Matrix Multiplication, a vital computational method with many real-world applications. Floating-point operations involve handling decimal numbers instead of integers, which is critical for precision in areas such as:
 
-Graphics rendering: Essential for accurate transformations and projections.
-Machine learning: Used in neural networks for processing floating-point weights and biases.
-Scientific computing: Needed for solving equations, simulations, and precise calculations.
+Graphics rendering: 
+Essential for accurate transformations and projections.
+Machine learning:
+Used in neural networks for processing floating-point weights and biases.
+Scientific computing
+ Needed for solving equations, simulations, and precise calculations.
 The goal is to design a reliable and efficient algorithm for multiplying matrices with floating-point numbers. Achieving this requires careful attention to numerical stability, memory optimization, and computational performance, ensuring accurate results while using resources effectively.
 
 Video Explanation:
