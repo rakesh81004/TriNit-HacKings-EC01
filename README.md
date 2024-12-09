@@ -16,10 +16,12 @@ Algorithm Implementation:
 
 A detailed walkthrough of the coding process for floating-point matrix multiplication.
 Explanation of the algorithm’s workflow, from matrix input to output generation.
+
 Tools and Programming Languages:
 
 Programming tools (e.g., Python, C++, or Java) utilized to implement the solution.
 Frameworks or libraries such as NumPy or TensorFlow to simplify complex computations.
+
 Optimization Techniques:
 
 Techniques adopted to enhance algorithm efficiency.
