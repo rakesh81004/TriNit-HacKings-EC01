@@ -2,20 +2,22 @@ Title:
 The project is titled TriNit-HacKings-EC01, which appears to represent either the name of a team or a project identifier associated with a specific hackathon or competition. This title likely signifies a collaborative effort to address a technical problem or challenge in an innovative way. The title itself might suggest a focus on teamwork and advanced problem-solving.
 
 Project Context:
-This project delves into Floating Point Matrix Multiplication, a crucial computational process used in numerous real-world applications. Matrix multiplication with floating-point numbers involves working with decimal values instead of integers, providing the precision required in fields like:
 
+This project delves into Floating Point Matrix Multiplication, a crucial computational process used in numerous real-world applications. Matrix multiplication with floating-point numbers involves working with decimal values instead of integers, providing the precision required in fields like:
 Graphics rendering, where transformations and projections rely on precise calculations.
 Machine learning, where neural networks perform matrix operations on floating-point weights and biases.
 Scientific computing, which often involves solving equations, performing simulations, and handling high-precision calculations.
 The project aims to implement an efficient and reliable algorithm for multiplying two matrices containing floating-point numbers. This task often requires attention to numerical stability, memory usage, and computational efficiency to ensure accurate results while minimizing resource consumption.
 
 Video Explanation:
+
 A detailed explanation of the project is provided in a linked video. This video likely includes the following components:
 
 Algorithm Implementation:
 
 A step-by-step breakdown of how the floating-point matrix multiplication was coded.
 Demonstration of the logical flow of the algorithm, starting from matrix input to the final product.
+
 Tools and Programming Languages:
 
 The software and programming languages (e.g., Python, C++, or Java) used to build the solution.
