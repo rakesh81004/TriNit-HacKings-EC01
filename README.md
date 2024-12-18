@@ -24,10 +24,12 @@ Optimization Techniques:
 
 Special methods applied to improve the efficiency of the algorithm.
 Techniques like parallel processing, cache optimization, or avoiding unnecessary computations.
+
 Results and Real-World Relevance:
 
 A demonstration of the output with sample matrices.
 Insights into how the solution can be applied to real-world problems, such as processing large datasets or enhancing the performance of AI models.
+
 Purpose of the Text:
 The text serves as a high-level introduction to the project. Its primary purpose is to:
 
