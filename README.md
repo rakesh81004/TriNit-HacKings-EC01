@@ -8,8 +8,12 @@ Video Explanation:
 The content provides a link to a video that explains the project in detail. The video likely demonstrates:
 
 How the matrix multiplication algorithm was implemented.
+
 The tools and programming languages used.
+
 Any optimizations or unique approaches applied to improve the efficiency of the multiplication process.
+
 The results and real-world applications of the project.
+
 Purpose of the Text:
 The content is brief and serves as an introduction or overview for someone interested in the project. It's meant to direct the audience to the video for a deeper understanding of the work.
