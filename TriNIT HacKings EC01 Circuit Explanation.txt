@@ -33,7 +33,7 @@ In this project, I successfully designed and implemented hardware circuits for f
 
 
 
-Bonus Task - Checking Empirical Relationship: vasuu
+Bonus Task - Checking Empirical Relationship: vasu
 
 Calculated the mean, median, and mode of the final marks dataset using the available components.
 Verified the empirical relationship (Mean – Mode = 3 * (Mean – Median)) approximately by comparing the calculated values, demonstrating the bonus task successfully.
