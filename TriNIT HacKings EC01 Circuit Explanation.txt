@@ -39,7 +39,7 @@ Calculated the mean, median, and mode of the final marks dataset using the avail
 Verified the empirical relationship (Mean – Mode = 3 * (Mean – Median)) approximately by comparing the calculated values, demonstrating the bonus task successfully.
 Simulation and Testing:
 
-Conducted thorough simulation of the entire circuit to verify its functionality and correctness.
+Conducted thorough simulation of the entire circuit to verify its functionality.
 Tested the circuit with provided test cases, including specific floating-point addition and multiplication operations, ensuring accurate results.
 Made necessary adjustments and optimizations to the circuit design based on simulation results and testing outcomes, ensuring robust performance.
 TriNIT HacKings EC01 Circuit Explanation
