@@ -42,7 +42,7 @@ Simulation and Testing:
 Conducted thorough simulation of the entire circuit to verify its functionality and correctness.
 Tested the circuit with provided test cases, including specific floating-point addition and multiplication operations, ensuring accurate results.
 Made necessary adjustments and optimizations to the circuit design based on simulation results and testing outcomes, ensuring robust performance.
-
+TriNIT HacKings EC01 Circuit Explanation
 Documentation and Submission:
 
 Captured screenshots of the circuit design at various stages, including the floating-point adder, multiplier, average calculation, matrix multiplication, and bonus task verification.
