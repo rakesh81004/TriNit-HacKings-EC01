@@ -29,9 +29,9 @@ Designed a circuit to calculate the average of end-semester marks for all studen
 Utilized adders, registers, and dividers to accumulate the marks for each student and compute the average, taking into account the varying weights assigned to different exams.
 Generating Consolidated Final Marks Matrix:
 
-Implemented a circuit for matrix multiplication, leveraging available components in the online digital circuit generator.
-Designed the circuit to multiply the input matrix containing marks with the appropriate weightages to compute the consolidated final marks for each candidate.
-Utilized registers or memory elements to store intermediate results during the matrix multiplication process, ensuring efficient computation.
+In this project, I successfully designed and implemented hardware circuits for floating-point matrix multiplication using an online digital circuit generator. The project involved creating floating-point adder and multiplier circuits by utilizing logic gates and converting inputs to half-precision floating-point format to ensure precision and accuracy during arithmetic operations. A circuit was developed to calculate the average of end-semester marks for students, incorporating adders, registers, and dividers to handle varying weights for different exams. Additionally, a matrix multiplication circuit was implemented to generate a consolidated final marks matrix by multiplying an input matrix of marks with weightage values. Registers and memory elements were used to store intermediate results during the computation, ensuring efficiency and accuracy. This project demonstrated the practical application of digital circuit design for computational tasks, emphasizing precision, scalability, and modularity.
+
+
 
 Bonus Task - Checking Empirical Relationship:
 
